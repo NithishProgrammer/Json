@@ -1,0 +1,102 @@
+[
+    {
+      "title": "Naruto",
+      "year": "2002",
+      "genre": "Shounen",
+      "episodes": "220",
+      "studio": "Pierrot",
+      "image": "naruto.jpg",
+      "link": "naruto-manga.com",
+      "content": "example content"
+    },
+    {
+      "title": "One Piece",
+      "year": "1999",
+      "genre": "Shounen",
+      "episodes": "900+",
+      "studio": "Toei Animation",
+      "image": "one_piece.jpg",
+      "link": "one-piece-manga.com",
+      "content": "example content"
+    },
+    {
+      "title": "Dragon Ball",
+      "year": "1986",
+      "genre": "Shounen",
+      "episodes": "153",
+      "studio": "Toei Animation",
+      "image": "dragon_ball.jpg",
+      "link": "dragon-ball-manga.com",
+      "content": "example content"
+    },
+    {
+      "title": "Death Note",
+      "year": "2006",
+      "genre": "Mystery",
+      "episodes": "37",
+      "studio": "Madhouse",
+      "image": "death_note.jpg",
+      "link": "death-note-manga.com",
+      "content": "example content"
+    },
+    {
+      "title": "Attack on Titan",
+      "year": "2013",
+      "genre": "Dark Fantasy",
+      "episodes": "59",
+      "studio": "Wit Studio",
+      "image": "attack_on_titan.jpg",
+      "link": "attack-on-titan-manga.com",
+      "content": "example content"
+    },
+    {
+      "title": "My Hero Academia",
+      "year": "2016",
+      "genre": "Shounen",
+      "episodes": "88",
+      "studio": "Bones",
+      "image": "my_hero_academia.jpg",
+      "link": "my-hero-academia-manga.com",
+      "content": "example content"
+    },
+    {
+      "title": "Fullmetal Alchemist",
+      "year": "2003",
+      "genre": "Adventure",
+      "episodes": "64",
+      "studio": "Bones",
+      "image": "fullmetal_alchemist.jpg",
+      "link": "fullmetal-alchemist-manga.com",
+      "content": "example content"
+    },
+    {
+      "title": "One Punch Man",
+      "year": "2015",
+      "genre": "Superhero",
+      "episodes": "24",
+      "studio": "Madhouse",
+      "image": "one_punch_man.jpg",
+      "link": "one-punch-man-manga.com",
+      "content": "example content"
+    },
+    {
+      "title": "Tokyo Ghoul",
+      "year": "2014",
+      "genre": "Dark Fantasy",
+      "episodes": "48",
+      "studio": "Pierrot",
+      "image": "tokyo_ghoul.jpg",
+      "link": "tokyo-ghoul-manga.com",
+      "content": "example content"
+    },
+    {
+      "title": "Naruto Shippuden",
+      "year": "2007",
+      "genre": "Shounen",
+      "episodes": "500",
+      "studio": "Pierrot",
+      "image": "naruto_shippuden.jpg",
+      "link": "naruto-shippuden-manga.com",
+      "content": "example content"
+    }
+  ]
